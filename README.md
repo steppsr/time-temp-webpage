@@ -37,6 +37,15 @@ will have to replace this block with your own version, or some other type of dat
 
 ---
 
+### Prerequisites
+You will need to install `jq` in order to get the JSON stored into the file properly.
+
+Here is how to do that install:
+
+```
+sudo apt install jq
+```
+
 ## The Webpage
 The webpage only has three files:
 
