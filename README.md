@@ -2,7 +2,7 @@
 
 > I saw an old photo of a time & temperature cable channel from when I was a kid recently. This is a
 > webpage to mimic that old cable channel... just for the fun and nostalgia of doing it. It will pull 
-> data from a couple APIs and build a webpage for the time and temperature. Note: if you are from my
+> data from a couple APIs and build a webpage for the time and temperature. Note: if you are from my town
 > and remember Channel 8, this is **not** an exact replica... don't come at me! :)
 
 ![](screenshot.png)
